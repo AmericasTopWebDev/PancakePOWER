@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/PancakePOWER/static/css/main.460ebc08.css",
-    "main.js": "/PancakePOWER/static/js/main.10a714c3.js",
+    "main.css": "/PancakePOWER/static/css/main.24091060.css",
+    "main.js": "/PancakePOWER/static/js/main.28f825bf.js",
     "static/js/529.5e410e7d.chunk.js": "/PancakePOWER/static/js/529.5e410e7d.chunk.js",
     "static/media/image_50458113.JPG": "/PancakePOWER/static/media/image_50458113.adcdf7349d6d395abb13.JPG",
+    "static/media/image_67181313.JPG": "/PancakePOWER/static/media/image_67181313.b4ffc7f274e3332e1d71.JPG",
+    "static/media/image_67189505.JPG": "/PancakePOWER/static/media/image_67189505.482088914ac7bb5a4bdb.JPG",
+    "static/media/image_67191809.JPG": "/PancakePOWER/static/media/image_67191809.dc3e6fbd4613fa24171c.JPG",
+    "static/media/image_67160577.JPG": "/PancakePOWER/static/media/image_67160577.fb0839c5182c53e676bc.JPG",
+    "static/media/image_67165185.JPG": "/PancakePOWER/static/media/image_67165185.7f4fc51e28d95a015f4d.JPG",
+    "static/media/image_67158785.JPG": "/PancakePOWER/static/media/image_67158785.19296d999175acfcb28d.JPG",
+    "static/media/image_67190273.JPG": "/PancakePOWER/static/media/image_67190273.a5e9c02ac6b329a65756.JPG",
+    "static/media/image_67162113.JPG": "/PancakePOWER/static/media/image_67162113.f034397d0a5b6ba9ae66.JPG",
+    "static/media/image_67186945.JPG": "/PancakePOWER/static/media/image_67186945.de479a408d3dcae4d220.JPG",
     "static/media/hanma.jpg": "/PancakePOWER/static/media/hanma.64d253e8b8e57834040b.jpg",
     "static/media/logo.svg": "/PancakePOWER/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/PancakePOWER/index.html",
-    "main.460ebc08.css.map": "/PancakePOWER/static/css/main.460ebc08.css.map",
-    "main.10a714c3.js.map": "/PancakePOWER/static/js/main.10a714c3.js.map",
+    "main.24091060.css.map": "/PancakePOWER/static/css/main.24091060.css.map",
+    "main.28f825bf.js.map": "/PancakePOWER/static/js/main.28f825bf.js.map",
     "529.5e410e7d.chunk.js.map": "/PancakePOWER/static/js/529.5e410e7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.460ebc08.css",
-    "static/js/main.10a714c3.js"
+    "static/css/main.24091060.css",
+    "static/js/main.28f825bf.js"
   ]
 }
